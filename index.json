@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.nxt",
+  "versions": [
+    {
+      "commit": "853d1468913f7b0b3161723ea068c91fb8660868",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:25:09.158610+00:00"
+    }
+  ]
+}
